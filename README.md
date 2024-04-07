@@ -1,1 +1,1 @@
-# PraPro
+# Practical Programming
